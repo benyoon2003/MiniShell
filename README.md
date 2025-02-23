@@ -1,4 +1,4 @@
-## Usage
+# Usage
 In order to build the C executables simply <make all>
 In order to enter the mini shell: <./shell>. NOTE: You are able to enter into any number of child shells from the current shell.
 
